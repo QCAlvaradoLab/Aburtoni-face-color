@@ -1,0 +1,520 @@
+{
+ "time_format":"hh:mm:ss",
+ "project_date":"2023-05-05T09:06:36",
+ "project_name":"Robert_Dyad10_A2D",
+ "project_description":"",
+ "project_format_version":"7.0",
+ "subjects_conf":{
+  "0":{
+   "key":"m",
+   "name":"Dominant",
+   "description":""
+  },
+  "1":{
+   "key":"n",
+   "name":"Subordinate",
+   "description":""
+  }
+ },
+ "behaviors_conf":{
+  "0":{
+   "type":"Point event",
+   "key":"c",
+   "code":"Chases Male",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "1":{
+   "type":"Point event",
+   "key":"r",
+   "code":"Lateral Side Display",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "2":{
+   "type":"Point event",
+   "key":"q",
+   "code":"Quiver female",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "3":{
+   "type":"Point event",
+   "key":"l",
+   "code":"Lead",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "4":{
+   "type":"Point event",
+   "key":"d",
+   "code":"Dig Pot/Substrate",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "5":{
+   "type":"Point event",
+   "key":"f",
+   "code":"Foraging",
+   "description":"",
+   "category":"Other",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "6":{
+   "type":"Point event",
+   "key":"e",
+   "code":"Entry /Exit Pot",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "7":{
+   "type":"Point event",
+   "key":"v",
+   "code":"Chases Female",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "8":{
+   "type":"Point event",
+   "key":"w",
+   "code":"Quiver Male",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "9":{
+   "type":"Point event",
+   "key":"b",
+   "code":"Bite",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "10":{
+   "type":"Point event",
+   "key":"k",
+   "code":"head on head fight",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "11":{
+   "type":"Point event",
+   "key":"h",
+   "code":"bite female",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "12":{
+   "type":"Point event",
+   "key":"x",
+   "code":"Flee",
+   "description":"",
+   "category":"Other",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "13":{
+   "type":"Point event",
+   "key":"s",
+   "code":"Circle",
+   "description":"",
+   "category":"Reproductive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  },
+  "14":{
+   "type":"Point event",
+   "key":"a",
+   "code":"Mirror",
+   "description":"",
+   "category":"Aggressive",
+   "modifiers":{},
+   "excluded":"",
+   "coding map":""
+  }
+ },
+ "observations":{
+  "Robert_Dyad10_A2D":{
+   "file":{
+    "1":[
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH010532.MP4",
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH020532.MP4",
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH030532.MP4",
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH040532.MP4",
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH050532.MP4"
+    ],
+    "2":[],
+    "3":[],
+    "4":[],
+    "5":[],
+    "6":[],
+    "7":[],
+    "8":[]
+   },
+   "type":"MEDIA",
+   "date":"2023-05-05T09:09:05",
+   "description":"",
+   "time offset":0.0,
+   "events":[
+    [
+     21.381,
+     "Dominant",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     22.625,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     158.015,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     158.015,
+     "Dominant",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     158.758,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     179.938,
+     "Subordinate",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     197.649,
+     "Subordinate",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     686.459,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     687.538,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     755.105,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     775.118,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     775.127,
+     "Dominant",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     784.639,
+     "Dominant",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     803.561,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     941.099,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1101.207,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     1167.021,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1321.424,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1399.836,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1529.632,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1583.315,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     1584.441,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     1584.693,
+     "Subordinate",
+     "Flee",
+     "",
+     ""
+    ],
+    [
+     1852.854,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     2010.766,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     2073.586,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     2274.883,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     2497.108,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     2695.554,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     2697.061,
+     "Subordinate",
+     "bite female",
+     "",
+     ""
+    ],
+    [
+     3102.47,
+     "Dominant",
+     "Entry /Exit Pot",
+     "",
+     ""
+    ],
+    [
+     3102.716,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     3102.971,
+     "Subordinate",
+     "Flee",
+     "",
+     ""
+    ],
+    [
+     3190.805,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     3191.053,
+     "Subordinate",
+     "Flee",
+     "",
+     ""
+    ],
+    [
+     3240.56,
+     "Dominant",
+     "Foraging",
+     "",
+     ""
+    ],
+    [
+     3356.726,
+     "Dominant",
+     "Quiver Male",
+     "",
+     ""
+    ],
+    [
+     3361.477,
+     "Dominant",
+     "Bite",
+     "",
+     ""
+    ],
+    [
+     3362.475,
+     "Subordinate",
+     "Flee",
+     "",
+     ""
+    ]
+   ],
+   "observation time interval":[
+    0,
+    0
+   ],
+   "independent_variables":{},
+   "visualize_spectrogram":false,
+   "visualize_waveform":false,
+   "close_behaviors_between_videos":false,
+   "media_info":{
+    "length":{
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH010532.MP4":707.71,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH020532.MP4":707.71,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH030532.MP4":707.71,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH040532.MP4":707.71,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH050532.MP4":552.32
+    },
+    "fps":{
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH010532.MP4":59.94,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH020532.MP4":59.94,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH030532.MP4":59.94,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH040532.MP4":59.94,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH050532.MP4":59.94
+    },
+    "hasVideo":{
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH010532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH020532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH030532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH040532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH050532.MP4":true
+    },
+    "hasAudio":{
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH010532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH020532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH030532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH040532.MP4":true,
+     "C:/Users/qcbio/Dropbox (Queens College)/2023/Dyad/230313_Dyad10/Yellow/A2D/Videos/GH050532.MP4":true
+    },
+    "offset":{
+     "1":0.0
+    }
+   }
+  }
+ },
+ "behavioral_categories":[
+  "Aggressive",
+  "Reproductive",
+  "Other"
+ ],
+ "independent_variables":{},
+ "coding_map":{},
+ "behaviors_coding_map":[],
+ "converters":{}
+}

@@ -1,0 +1,41 @@
+Observations:,,,,,,,,,
+,,,,,,,,,
+Observation id,Daniel_Dyad10_C2A,,,,,,,,
+Observation date,2023-05-23T15:59:12,,,,,,,,
+Description,,,,,,,,,
+Independent variables:,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Time budget:,,,,,,,,,
+Subject,Behavior,Modifiers,Total number of occurences,Total duration (s),Duration mean (s),Duration std dev,inter-event intervals mean (s),inter-event intervals std dev,% of total length
+,,,,,,,,,
+Dominant,Chases Male,,6,NA,NA,NA,169.312,172.349,NA
+Dominant,Lateral Side Display,,0,NA,NA,NA,NA,NA,NA
+Dominant,Chases Female,,36,NA,NA,NA,94.360,113.320,NA
+Dominant,Quiver Male,,0,NA,NA,NA,NA,NA,NA
+Dominant,Bite,,6,NA,NA,NA,374.636,363.979,NA
+Dominant,head on head fight,,0,NA,NA,NA,NA,NA,NA
+Dominant,Mirror,,0,NA,NA,NA,NA,NA,NA
+Dominant,Quiver female,,0,NA,NA,NA,NA,NA,NA
+Dominant,Lead,,0,NA,NA,NA,NA,NA,NA
+Dominant,Dig Pot/Substrate,,0,NA,NA,NA,NA,NA,NA
+Dominant,Entry /Exit Pot,,16,NA,NA,NA,170.551,201.000,NA
+Dominant,bite female,,3,NA,NA,NA,285.201,135.662,NA
+Dominant,Circle,,0,NA,NA,NA,NA,NA,NA
+Dominant,Foraging,,13,NA,NA,NA,239.241,411.658,NA
+Dominant,Flee,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Chases Male,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Lateral Side Display,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Chases Female,,8,NA,NA,NA,458.687,568.037,NA
+Subordinate,Quiver Male,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Bite,,2,NA,NA,NA,534.985,NA,NA
+Subordinate,head on head fight,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Mirror,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Quiver female,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Lead,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Dig Pot/Substrate,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Entry /Exit Pot,,0,NA,NA,NA,NA,NA,NA
+Subordinate,bite female,,7,NA,NA,NA,483.926,772.358,NA
+Subordinate,Circle,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Foraging,,0,NA,NA,NA,NA,NA,NA
+Subordinate,Flee,,7,NA,NA,NA,343.701,454.128,NA
