@@ -1,0 +1,83 @@
+An error has occured
+
+to improve the software please report this problem at:
+https://github.com/olivierfriard/BORIS/issues
+Please no screenshot, the error message was copied to the clipboard.
+
+Thank you for your collaboration!
+
+
+BORIS version: 8.20.4
+OS: Windows 10 10.0.22000
+CPU: AMD64 Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+Python 3.11.2 (64-bit)
+Qt 5.15.2 - PyQt 5.15.9
+2024-03-17 11:47
+
+Traceback (most recent call last):
+  File "C:\Users\Queens College\BORIS\Lib\site-packages\boris\core.py", line 3945, in mpv_timer_out
+    self.get_events_current_row()
+  File "C:\Users\Queens College\BORIS\Lib\site-packages\boris\core.py", line 3737, in get_events_current_row
+    ct = self.getLaps()
+         ^^^^^^^^^^^^^^
+  File "C:\Users\Queens College\BORIS\Lib\site-packages\boris\core.py", line 4356, in getLaps
+    0 if self.dw_player[n_player].player.time_pos is None else self.dw_player[n_player].player.time_pos * 1000
+                                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+
+
+System info
+
+Host Name:                 DESKTOP-ON0FDSR
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22000 N/A Build 22000
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Queens College
+Registered Organization:   N/A
+Product ID:                00331-20314-98015-AA352
+Original Install Date:     7/24/2023, 5:02:56 PM
+System Boot Time:          2/5/2024, 2:53:09 PM
+System Manufacturer:       AZW
+System Model:              SEi
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~1300 Mhz
+BIOS Version:              American Megatrends International, LLC. ALDER109, 12/1/2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     32,539 MB
+Available Physical Memory: 23,354 MB
+Virtual Memory: Max Size:  37,403 MB
+Virtual Memory: Available: 27,865 MB
+Virtual Memory: In Use:    9,538 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-ON0FDSR
+Hotfix(s):                 9 Hotfix(s) Installed.
+                           [01]: KB5030650
+                           [02]: KB5028954
+                           [03]: KB5008295
+                           [04]: KB5011048
+                           [05]: KB5012170
+                           [06]: KB5026038
+                           [07]: KB5026910
+                           [08]: KB5031358
+                           [09]: KB5031591
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                 Connection Name: Wi-Fi 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.12
+                                 [02]: fe80::daff:faf2:f2fd:6fd9
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection 2
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
